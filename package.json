@@ -1,0 +1,7 @@
+{
+    "name": "espn-headlines",
+    "version": "1.0.0",
+    "author": "Luke Berndt <luke@lukeberndt.com>",
+    "description": "Pulls Sports Headlines from the ESPN API. You need to get an API key from them.",
+    "main": "./espn-headlines.js"
+}
